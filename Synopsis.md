@@ -98,11 +98,15 @@ Our team extensively used the following technologies/tools for the purpose of de
 
                                                     
 
-    ![HTML & CSS](/images/html&css.png)         ![MongodB Database](/images/mongo.png)           ![Amazon Web services](/images/aws.png)   
+![HTML & CSS](/images/html&css.png) 
+    
+![MongodB Database](/images/mongo.png) 
+    
+![Amazon Web services](/images/aws.png)
 
-                                                                        
-
-       ![React Js](/images/react.png)                                                            ![Node Js ](/images/node.png)  
+![React Js](/images/react.png) 
+                                                           
+![Node Js ](/images/node.png) 
 
  
  
